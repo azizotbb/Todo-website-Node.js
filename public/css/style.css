@@ -1,0 +1,37 @@
+.container {
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+  margin-top: 40px;
+}
+.container form {
+  margin: 30px;
+  text-align: center;
+}
+
+.container ul {
+  min-width: 40%;
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container li {
+  border: 2px, solid, black;
+}
+
+.updateInput {
+  width: 70px;
+}
+
+button {
+  border: none;
+  background-color: unset;
+  color: rgb(63, 63, 239);
+}
+
+.deleteForm {
+  display: inline;
+}
